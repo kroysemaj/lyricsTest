@@ -1,2 +1,2 @@
-roses are red
-violets are blue
+I like ducks
+They are great
